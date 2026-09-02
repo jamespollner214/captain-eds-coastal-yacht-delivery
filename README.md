@@ -2,6 +2,8 @@
 
 This is a standalone static website built with plain HTML, CSS, and JavaScript. It has no ChatGPT-specific dependencies, no framework, and no required paid service. It is ready to publish through GitHub Pages.
 
+The visual theme uses a Miami-inspired palette of Atlantic blue, turquoise, aqua, flamingo pink, and sunset orange.
+
 ## Open the project in VS Code
 
 After extracting the ZIP into `C:\Projects`, run:
